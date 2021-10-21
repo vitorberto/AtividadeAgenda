@@ -1,0 +1,14 @@
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.exe
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.deps.json
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.runtimeconfig.json
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.runtimeconfig.dev.json
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.dll
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\bin\Debug\netcoreapp3.1\ConsoleAgenda.pdb
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.csproj.AssemblyReference.cache
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.AssemblyInfoInputs.cache
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.AssemblyInfo.cs
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.csproj.CoreCompileInputs.cache
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.dll
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.pdb
+C:\Users\vitub\source\repos\ConsoleAgenda\ConsoleAgenda\obj\Debug\netcoreapp3.1\ConsoleAgenda.genruntimeconfig.cache
